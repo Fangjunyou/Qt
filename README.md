@@ -9,6 +9,7 @@ Features:
 4. switch log file automatically once its size or number of log items exceeds limitation.
 
 ----------------------------------------------
+
 d_graph_topo.h/cpp:
 采用邻接表方法，实现数据结构有向图。
 1. 有向图construtor的参数：顶点数，<尾顶点号，首顶点号>对表示的边表
@@ -16,5 +17,6 @@ d_graph_topo.h/cpp:
 3. 调用图深度遍历或广度遍历函数
 
 使用示例：见dGraph/main.cpp
+
 ----------------------------------------------
 
